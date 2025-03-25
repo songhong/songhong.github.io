@@ -1,18 +1,18 @@
-baseURL: 'https://hugo-ladder.pages.dev'
+baseURL: 'https://songhong.github.io'
 title: LADDER
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
-homepage: 'https://hugo-ladder.pages.dev'
+homepage: 'https://songhong.github.io'
 defaultContentLanguage: 'en'
 googleAnalytics: G-4WXJ5TEK2S
 paginate: 10
 hasCJKLanguage: true
-copyright: "2023 GuangzhengLi All rights reserved"
+copyright: "2025 HONGSONG All rights reserved"
 Author:
-  name: "Guangzheng Li"
-  email: "iguangzhengli@gmail.com"
+  name: "SONG"
+  email: "yqsong.hong@gmail.com"
 menu:
   main:
     - name: Blog
